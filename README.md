@@ -9,10 +9,21 @@
 [![Plotly](https://img.shields.io/badge/Plotly-5.x-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-84FF00?style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://pandemic-intelligence-dashboard.streamlit.app/)
+
+**🔴 [Live Demo → pandemic-intelligence-dashboard.streamlit.app](https://pandemic-intelligence-dashboard.streamlit.app/)**
 
 ![Dashboard Preview](images/preview.png)
 
 </div>
+
+---
+
+## 🔴 Live Demo
+
+> ✨ Try the dashboard live — no installation needed!
+
+**👉 [https://pandemic-intelligence-dashboard.streamlit.app/](https://pandemic-intelligence-dashboard.streamlit.app/)**
 
 ---
 
